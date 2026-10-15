@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm currently building a strong foundation in **Data Analytics at Lux Dev Academy**, developing practical skills across the full analytics workflow — querying and cleaning data with SQL, exploring and transforming it with Python, and presenting it clearly through Excel and Power BI dashboards.
+I'm currently building a strong foundation in **Data Analytics at Lux Dev Academy**, developing practical skills across the full analytics workflow  querying and cleaning data with SQL, exploring and transforming it with Python, and presenting it clearly through Excel and Power BI dashboards.
 
 I believe great data work isn't just about the numbers , it's about telling the story behind them. Whether it's a pivot table that reveals a trend or a dashboard that gives someone clarity at a glance, I'm drawn to the moment data becomes insight. I'm actively growing my portfolio and looking for opportunities to apply what I've learned in real-world contexts.
 
